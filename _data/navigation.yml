@@ -1,0 +1,9 @@
+main:
+  - title: "Portfolio"
+    url:  /portfolio/	
+  - title: "Posts"
+    url: /posts/
+  - title: "Pages"
+    url: /page-archive/
+  
+  
