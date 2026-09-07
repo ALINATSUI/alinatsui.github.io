@@ -1,6 +1,6 @@
 Source code for my personal portfolio site, built with Jekyll + Minimal Mistakes theme. 
 
-Live link - https://alinatsui.github.io
+**Live site:** [cloudwithme.net](https://cloudwithme.net) (custom domain, forwards from alinatsui.github.io)
 
 ### Tech stack 
 - Jekyll
